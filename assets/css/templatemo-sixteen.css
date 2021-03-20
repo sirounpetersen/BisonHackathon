@@ -418,7 +418,7 @@ header .navbar {
 
 .product-item {
 	border: 1px solid #eee;
-	margin-bottom: 30px;
+
 }
 
 .product-item .down-content {
@@ -573,7 +573,7 @@ header .navbar {
 }
 
 .call-to-action .inner-content .col-md-4 {
-	text-align: right;
+	text-align: center;
 }
 
 .call-to-action .inner-content .filled-button {
