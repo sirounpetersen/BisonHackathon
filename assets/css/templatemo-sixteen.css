@@ -318,7 +318,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/Donationship_Slideshow1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -326,7 +326,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_02.jpg);
+	background-image: url(../images/Donationship_Slideshow_2.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -361,7 +361,7 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: #fff;
+	color:grey;
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
