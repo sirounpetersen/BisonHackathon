@@ -6,11 +6,11 @@
 * personalizes the way people donate
 
 ### Features
-*geo location that matches you
-*text feature to message your match
+* geo location that matches you
+* text feature to message your match
 
 ## Code
-*CSS, Javascript HTML
+* CSS, Javascript HTML
 
 
 
