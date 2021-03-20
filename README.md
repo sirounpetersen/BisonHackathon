@@ -1,10 +1,9 @@
-# Project Name / Repository Name
+# Project Name / Donationship
 
 ## About / Synopsis
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* an application that bridges the gap between donors and their low income community
+* personalizes the way people donate
 
 See real examples:
 
