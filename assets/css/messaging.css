@@ -140,8 +140,8 @@ h4.card-title {
     margin: 4px 0;
     background-color: #f5f6f7;
     border-radius: 3px;
-    font-weight: 100;
-    color: #9b9b9b;
+    font-weight: 250;
+    color: #111111;
 }
 
 .media>* {
@@ -225,6 +225,7 @@ h4.card-title {
     padding: 6px 8px;
     margin: 4px 0;
     background-color: #f5f6f7;
+    color:black;
     border-radius: 3px;
 }
 
